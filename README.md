@@ -1,5 +1,5 @@
 # Accidentes Aereos
-Soy Ismael Alejandro Flores y este es un analisis de datos enfocado en los accidentes aereos.
+A lo largo de la historia, el ser humano creó diversos objetos que ayudarian a solucionar diversos problemas, pero tambien provocarian diversas catastrofes, uno de esos inventos llega a ser el tema de este analisis, los objetos aereos suelen ser un medio de ayuda en transporte de cargas o viajes pero tambien puede ser un metodo para privar de la vida a personas, soy Ismael Flores y realice este proyecto para analizar accidentes aereos.
 
 ![accidente](https://www.publico.es/psicologia-y-mente/wp-content/uploads/2023/05/transport-1024x683.jpg)
 
