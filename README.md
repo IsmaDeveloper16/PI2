@@ -37,7 +37,10 @@ A lo largo de la historia, el ser humano creó diversos objetos que ayudarian a 
 
 - **Storytelling:** El objetivo de mi storytelling es concientizar acerca de estos sucesos atravez de una historia y datos hostoricos.
   
-- **KPIs:** Estos son los 3 KPIs que estare utilizando en mi proyecto.
-  - 
+- **KPIs:** Estos son los 2 KPIs que estare utilizando en mi proyecto.
+  - **KPI 1:** El primer KPI que realizaré sera la Tasa de disminución de una decada con la decada pasada.
+  - **KPI 2:** El segundo KPI que hicé fue para determinar el porcentaje de sobrevivientes.
+
+- **Dashboard:** Al final realizaré el **Dashboard**, ya teniendo el **Storytelling** y los **KPIs**.
 
   
